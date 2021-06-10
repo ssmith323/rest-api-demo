@@ -1,0 +1,4 @@
+
+management:
+  health.db.enabled: true
+  endpoint.health.show-details: always
